@@ -1,0 +1,162 @@
+F:\C#Access\源代码\第1章 小区物业管理系统\MyCommunity\MyCommunity\bin\Release\MyCommunity.exe.config
+F:\C#Access\源代码\第1章 小区物业管理系统\MyCommunity\MyCommunity\obj\Release\Interop.IasHelperLib.dll
+F:\C#Access\源代码\第1章 小区物业管理系统\MyCommunity\MyCommunity\obj\Release\MyCommunity.csproj.ResolveComReference.cache
+F:\C#Access\源代码\第1章 小区物业管理系统\MyCommunity\MyCommunity\obj\Release\MyCommunity.exe
+F:\C#Access\源代码\第1章 小区物业管理系统\MyCommunity\MyCommunity\obj\Release\MyCommunity.pdb
+F:\C#Access\源代码\第1章 小区物业管理系统\MyCommunity\MyCommunity\obj\Release\ResolveAssemblyReference.cache
+F:\C#Access\源代码\第1章 小区物业管理系统\MyCommunity\MyCommunity\obj\Release\MyCommunity.BuildingForm.resources
+F:\C#Access\源代码\第1章 小区物业管理系统\MyCommunity\MyCommunity\obj\Release\MyCommunity.ChangeUserPasswordForm.resources
+F:\C#Access\源代码\第1章 小区物业管理系统\MyCommunity\MyCommunity\obj\Release\MyCommunity.CommonPropertyForm.resources
+F:\C#Access\源代码\第1章 小区物业管理系统\MyCommunity\MyCommunity\obj\Release\MyCommunity.CommonRepairForm.resources
+F:\C#Access\源代码\第1章 小区物业管理系统\MyCommunity\MyCommunity\obj\Release\MyCommunity.CommunityForm.resources
+F:\C#Access\源代码\第1章 小区物业管理系统\MyCommunity\MyCommunity\obj\Release\MyCommunity.ComplainForm.resources
+F:\C#Access\源代码\第1章 小区物业管理系统\MyCommunity\MyCommunity\obj\Release\MyCommunity.EventForm.resources
+F:\C#Access\源代码\第1章 小区物业管理系统\MyCommunity\MyCommunity\obj\Release\MyCommunity.GasPaymentForm.resources
+F:\C#Access\源代码\第1章 小区物业管理系统\MyCommunity\MyCommunity\obj\Release\MyCommunity.GasQueryForm.resources
+F:\C#Access\源代码\第1章 小区物业管理系统\MyCommunity\MyCommunity\obj\Release\MyCommunity.GasRegisterForm.resources
+F:\C#Access\源代码\第1章 小区物业管理系统\MyCommunity\MyCommunity\obj\Release\MyCommunity.LoginForm.resources
+F:\C#Access\源代码\第1章 小区物业管理系统\MyCommunity\MyCommunity\obj\Release\MyCommunity.MainForm.resources
+F:\C#Access\源代码\第1章 小区物业管理系统\MyCommunity\MyCommunity\obj\Release\MyCommunity.ManagePaymentForm.resources
+F:\C#Access\源代码\第1章 小区物业管理系统\MyCommunity\MyCommunity\obj\Release\MyCommunity.ManageQueryForm.resources
+F:\C#Access\源代码\第1章 小区物业管理系统\MyCommunity\MyCommunity\obj\Release\MyCommunity.ManageRegisterForm.resources
+F:\C#Access\源代码\第1章 小区物业管理系统\MyCommunity\MyCommunity\obj\Release\MyCommunity.MoveForm.resources
+F:\C#Access\源代码\第1章 小区物业管理系统\MyCommunity\MyCommunity\obj\Release\MyCommunity.OperatorForm.resources
+F:\C#Access\源代码\第1章 小区物业管理系统\MyCommunity\MyCommunity\obj\Release\MyCommunity.OtherPaymentForm.resources
+F:\C#Access\源代码\第1章 小区物业管理系统\MyCommunity\MyCommunity\obj\Release\MyCommunity.OwnerForm.resources
+F:\C#Access\源代码\第1章 小区物业管理系统\MyCommunity\MyCommunity\obj\Release\MyCommunity.OwnerRepairForm.resources
+F:\C#Access\源代码\第1章 小区物业管理系统\MyCommunity\MyCommunity\obj\Release\MyCommunity.Properties.Resources.resources
+F:\C#Access\源代码\第1章 小区物业管理系统\MyCommunity\MyCommunity\obj\Release\MyCommunity.ReportChargeForm.resources
+F:\C#Access\源代码\第1章 小区物业管理系统\MyCommunity\MyCommunity\obj\Release\MyCommunity.ReportCommonRepairForm.resources
+F:\C#Access\源代码\第1章 小区物业管理系统\MyCommunity\MyCommunity\obj\Release\MyCommunity.ReportComplainForm.resources
+F:\C#Access\源代码\第1章 小区物业管理系统\MyCommunity\MyCommunity\obj\Release\MyCommunity.ReportOwnerForm.resources
+F:\C#Access\源代码\第1章 小区物业管理系统\MyCommunity\MyCommunity\obj\Release\MyCommunity.ReportOwnerRepairForm.resources
+F:\C#Access\源代码\第1章 小区物业管理系统\MyCommunity\MyCommunity\obj\Release\MyCommunity.StationForm.resources
+F:\C#Access\源代码\第1章 小区物业管理系统\MyCommunity\MyCommunity\obj\Release\MyCommunity.VersionForm.resources
+F:\C#Access\源代码\第1章 小区物业管理系统\MyCommunity\MyCommunity\obj\Release\MyCommunity.csproj.GenerateResource.Cache
+F:\C#Access\源代码\第1章 小区物业管理系统\MyCommunity\MyCommunity\bin\Release\Data\DBCommunity.mdb
+F:\C#Access\源代码\第1章 小区物业管理系统\MyCommunity\MyCommunity\bin\Release\MyCommunity.exe
+F:\C#Access\源代码\第1章 小区物业管理系统\MyCommunity\MyCommunity\bin\Release\MyCommunity.pdb
+F:\C#Access\源代码\第1章 小区物业管理系统\MyCommunity\MyCommunity\bin\Release\Microsoft.Office.Interop.Excel.dll
+F:\C#Access\源代码\第1章 小区物业管理系统\MyCommunity\MyCommunity\bin\Release\Microsoft.Vbe.Interop.dll
+F:\C#Access\源代码\第1章 小区物业管理系统\MyCommunity\MyCommunity\bin\Release\office.dll
+F:\C#Access\源代码\第1章 小区物业管理系统\MyCommunity\MyCommunity\bin\Release\Interop.IasHelperLib.dll
+F:\临时\小区物业管理系统\第1章 小区物业管理系统\MyCommunity\MyCommunity\bin\Release\MyCommunity.exe.config
+F:\临时\小区物业管理系统\第1章 小区物业管理系统\MyCommunity\MyCommunity\obj\Release\Interop.IasHelperLib.dll
+F:\临时\小区物业管理系统\第1章 小区物业管理系统\MyCommunity\MyCommunity\obj\Release\MyCommunity.csproj.ResolveComReference.cache
+F:\临时\小区物业管理系统\第1章 小区物业管理系统\MyCommunity\MyCommunity\obj\Release\MyCommunity.exe
+F:\临时\小区物业管理系统\第1章 小区物业管理系统\MyCommunity\MyCommunity\obj\Release\MyCommunity.pdb
+F:\临时\小区物业管理系统\第1章 小区物业管理系统\MyCommunity\MyCommunity\bin\Release\Data\DBCommunity.mdb
+F:\临时\小区物业管理系统\第1章 小区物业管理系统\MyCommunity\MyCommunity\bin\Release\MyCommunity.exe
+F:\临时\小区物业管理系统\第1章 小区物业管理系统\MyCommunity\MyCommunity\bin\Release\MyCommunity.pdb
+F:\临时\小区物业管理系统\第1章 小区物业管理系统\MyCommunity\MyCommunity\bin\Release\Microsoft.Office.Interop.Excel.dll
+F:\临时\小区物业管理系统\第1章 小区物业管理系统\MyCommunity\MyCommunity\bin\Release\Microsoft.Vbe.Interop.dll
+F:\临时\小区物业管理系统\第1章 小区物业管理系统\MyCommunity\MyCommunity\bin\Release\office.dll
+F:\临时\小区物业管理系统\第1章 小区物业管理系统\MyCommunity\MyCommunity\bin\Release\Interop.IasHelperLib.dll
+F:\临时\小区物业管理系统\第1章 小区物业管理系统\MyCommunity\MyCommunity\obj\Release\ResolveAssemblyReference.cache
+F:\临时\小区物业管理系统\第1章 小区物业管理系统\MyCommunity\MyCommunity\obj\Release\MyCommunity.BuildingForm.resources
+F:\临时\小区物业管理系统\第1章 小区物业管理系统\MyCommunity\MyCommunity\obj\Release\MyCommunity.ChangeUserPasswordForm.resources
+F:\临时\小区物业管理系统\第1章 小区物业管理系统\MyCommunity\MyCommunity\obj\Release\MyCommunity.CommonPropertyForm.resources
+F:\临时\小区物业管理系统\第1章 小区物业管理系统\MyCommunity\MyCommunity\obj\Release\MyCommunity.CommonRepairForm.resources
+F:\临时\小区物业管理系统\第1章 小区物业管理系统\MyCommunity\MyCommunity\obj\Release\MyCommunity.CommunityForm.resources
+F:\临时\小区物业管理系统\第1章 小区物业管理系统\MyCommunity\MyCommunity\obj\Release\MyCommunity.ComplainForm.resources
+F:\临时\小区物业管理系统\第1章 小区物业管理系统\MyCommunity\MyCommunity\obj\Release\MyCommunity.EventForm.resources
+F:\临时\小区物业管理系统\第1章 小区物业管理系统\MyCommunity\MyCommunity\obj\Release\MyCommunity.GasPaymentForm.resources
+F:\临时\小区物业管理系统\第1章 小区物业管理系统\MyCommunity\MyCommunity\obj\Release\MyCommunity.GasQueryForm.resources
+F:\临时\小区物业管理系统\第1章 小区物业管理系统\MyCommunity\MyCommunity\obj\Release\MyCommunity.GasRegisterForm.resources
+F:\临时\小区物业管理系统\第1章 小区物业管理系统\MyCommunity\MyCommunity\obj\Release\MyCommunity.LoginForm.resources
+F:\临时\小区物业管理系统\第1章 小区物业管理系统\MyCommunity\MyCommunity\obj\Release\MyCommunity.MainForm.resources
+F:\临时\小区物业管理系统\第1章 小区物业管理系统\MyCommunity\MyCommunity\obj\Release\MyCommunity.ManagePaymentForm.resources
+F:\临时\小区物业管理系统\第1章 小区物业管理系统\MyCommunity\MyCommunity\obj\Release\MyCommunity.ManageQueryForm.resources
+F:\临时\小区物业管理系统\第1章 小区物业管理系统\MyCommunity\MyCommunity\obj\Release\MyCommunity.ManageRegisterForm.resources
+F:\临时\小区物业管理系统\第1章 小区物业管理系统\MyCommunity\MyCommunity\obj\Release\MyCommunity.MoveForm.resources
+F:\临时\小区物业管理系统\第1章 小区物业管理系统\MyCommunity\MyCommunity\obj\Release\MyCommunity.OperatorForm.resources
+F:\临时\小区物业管理系统\第1章 小区物业管理系统\MyCommunity\MyCommunity\obj\Release\MyCommunity.OtherPaymentForm.resources
+F:\临时\小区物业管理系统\第1章 小区物业管理系统\MyCommunity\MyCommunity\obj\Release\MyCommunity.OwnerForm.resources
+F:\临时\小区物业管理系统\第1章 小区物业管理系统\MyCommunity\MyCommunity\obj\Release\MyCommunity.OwnerRepairForm.resources
+F:\临时\小区物业管理系统\第1章 小区物业管理系统\MyCommunity\MyCommunity\obj\Release\MyCommunity.Properties.Resources.resources
+F:\临时\小区物业管理系统\第1章 小区物业管理系统\MyCommunity\MyCommunity\obj\Release\MyCommunity.ReportChargeForm.resources
+F:\临时\小区物业管理系统\第1章 小区物业管理系统\MyCommunity\MyCommunity\obj\Release\MyCommunity.ReportCommonRepairForm.resources
+F:\临时\小区物业管理系统\第1章 小区物业管理系统\MyCommunity\MyCommunity\obj\Release\MyCommunity.ReportComplainForm.resources
+F:\临时\小区物业管理系统\第1章 小区物业管理系统\MyCommunity\MyCommunity\obj\Release\MyCommunity.ReportOwnerForm.resources
+F:\临时\小区物业管理系统\第1章 小区物业管理系统\MyCommunity\MyCommunity\obj\Release\MyCommunity.ReportOwnerRepairForm.resources
+F:\临时\小区物业管理系统\第1章 小区物业管理系统\MyCommunity\MyCommunity\obj\Release\MyCommunity.StationForm.resources
+F:\临时\小区物业管理系统\第1章 小区物业管理系统\MyCommunity\MyCommunity\obj\Release\MyCommunity.VersionForm.resources
+F:\临时\小区物业管理系统\第1章 小区物业管理系统\MyCommunity\MyCommunity\obj\Release\MyCommunity.csproj.GenerateResource.Cache
+E:\MySoft\9ymw .NET源码\51商业\16商业源码Winform\GSS小区物业管理系统源码\bin\Release\MyCommunity.exe.config
+E:\MySoft\9ymw .NET源码\51商业\16商业源码Winform\GSS小区物业管理系统源码\obj\Release\Interop.IasHelperLib.dll
+E:\MySoft\9ymw .NET源码\51商业\16商业源码Winform\GSS小区物业管理系统源码\obj\Release\MyCommunity.csproj.ResolveComReference.cache
+E:\MySoft\9ymw .NET源码\51商业\16商业源码Winform\GSS小区物业管理系统源码\obj\Release\MyCommunity.exe
+E:\MySoft\9ymw .NET源码\51商业\16商业源码Winform\GSS小区物业管理系统源码\obj\Release\MyCommunity.pdb
+E:\MySoft\9ymw .NET源码\51商业\16商业源码Winform\GSS小区物业管理系统源码\obj\Release\MyCommunity.BuildingForm.resources
+E:\MySoft\9ymw .NET源码\51商业\16商业源码Winform\GSS小区物业管理系统源码\obj\Release\MyCommunity.ChangeUserPasswordForm.resources
+E:\MySoft\9ymw .NET源码\51商业\16商业源码Winform\GSS小区物业管理系统源码\obj\Release\MyCommunity.CommonPropertyForm.resources
+E:\MySoft\9ymw .NET源码\51商业\16商业源码Winform\GSS小区物业管理系统源码\obj\Release\MyCommunity.CommonRepairForm.resources
+E:\MySoft\9ymw .NET源码\51商业\16商业源码Winform\GSS小区物业管理系统源码\obj\Release\MyCommunity.CommunityForm.resources
+E:\MySoft\9ymw .NET源码\51商业\16商业源码Winform\GSS小区物业管理系统源码\obj\Release\MyCommunity.ComplainForm.resources
+E:\MySoft\9ymw .NET源码\51商业\16商业源码Winform\GSS小区物业管理系统源码\obj\Release\MyCommunity.EventForm.resources
+E:\MySoft\9ymw .NET源码\51商业\16商业源码Winform\GSS小区物业管理系统源码\obj\Release\MyCommunity.GasPaymentForm.resources
+E:\MySoft\9ymw .NET源码\51商业\16商业源码Winform\GSS小区物业管理系统源码\obj\Release\MyCommunity.GasQueryForm.resources
+E:\MySoft\9ymw .NET源码\51商业\16商业源码Winform\GSS小区物业管理系统源码\obj\Release\MyCommunity.GasRegisterForm.resources
+E:\MySoft\9ymw .NET源码\51商业\16商业源码Winform\GSS小区物业管理系统源码\obj\Release\MyCommunity.LoginForm.resources
+E:\MySoft\9ymw .NET源码\51商业\16商业源码Winform\GSS小区物业管理系统源码\obj\Release\MyCommunity.MainForm.resources
+E:\MySoft\9ymw .NET源码\51商业\16商业源码Winform\GSS小区物业管理系统源码\obj\Release\MyCommunity.ManagePaymentForm.resources
+E:\MySoft\9ymw .NET源码\51商业\16商业源码Winform\GSS小区物业管理系统源码\obj\Release\MyCommunity.ManageQueryForm.resources
+E:\MySoft\9ymw .NET源码\51商业\16商业源码Winform\GSS小区物业管理系统源码\obj\Release\MyCommunity.ManageRegisterForm.resources
+E:\MySoft\9ymw .NET源码\51商业\16商业源码Winform\GSS小区物业管理系统源码\obj\Release\MyCommunity.MoveForm.resources
+E:\MySoft\9ymw .NET源码\51商业\16商业源码Winform\GSS小区物业管理系统源码\obj\Release\MyCommunity.OperatorForm.resources
+E:\MySoft\9ymw .NET源码\51商业\16商业源码Winform\GSS小区物业管理系统源码\obj\Release\MyCommunity.OtherPaymentForm.resources
+E:\MySoft\9ymw .NET源码\51商业\16商业源码Winform\GSS小区物业管理系统源码\obj\Release\MyCommunity.OwnerForm.resources
+E:\MySoft\9ymw .NET源码\51商业\16商业源码Winform\GSS小区物业管理系统源码\obj\Release\MyCommunity.OwnerRepairForm.resources
+E:\MySoft\9ymw .NET源码\51商业\16商业源码Winform\GSS小区物业管理系统源码\obj\Release\MyCommunity.Properties.Resources.resources
+E:\MySoft\9ymw .NET源码\51商业\16商业源码Winform\GSS小区物业管理系统源码\obj\Release\MyCommunity.ReportChargeForm.resources
+E:\MySoft\9ymw .NET源码\51商业\16商业源码Winform\GSS小区物业管理系统源码\obj\Release\MyCommunity.ReportCommonRepairForm.resources
+E:\MySoft\9ymw .NET源码\51商业\16商业源码Winform\GSS小区物业管理系统源码\obj\Release\MyCommunity.ReportComplainForm.resources
+E:\MySoft\9ymw .NET源码\51商业\16商业源码Winform\GSS小区物业管理系统源码\obj\Release\MyCommunity.ReportOwnerForm.resources
+E:\MySoft\9ymw .NET源码\51商业\16商业源码Winform\GSS小区物业管理系统源码\obj\Release\MyCommunity.ReportOwnerRepairForm.resources
+E:\MySoft\9ymw .NET源码\51商业\16商业源码Winform\GSS小区物业管理系统源码\obj\Release\MyCommunity.StationForm.resources
+E:\MySoft\9ymw .NET源码\51商业\16商业源码Winform\GSS小区物业管理系统源码\obj\Release\MyCommunity.VersionForm.resources
+E:\MySoft\9ymw .NET源码\51商业\16商业源码Winform\GSS小区物业管理系统源码\obj\Release\MyCommunity.csproj.GenerateResource.Cache
+E:\MySoft\9ymw .NET源码\51商业\16商业源码Winform\GSS小区物业管理系统源码\bin\Release\Data\DBCommunity.mdb
+E:\MySoft\9ymw .NET源码\51商业\16商业源码Winform\GSS小区物业管理系统源码\bin\Release\MyCommunity.exe
+E:\MySoft\9ymw .NET源码\51商业\16商业源码Winform\GSS小区物业管理系统源码\bin\Release\MyCommunity.pdb
+E:\MySoft\9ymw .NET源码\51商业\16商业源码Winform\GSS小区物业管理系统源码\bin\Release\Interop.IasHelperLib.dll
+F:\C#工作区\DX0149-小区物业管理系统源码\DX0149-小区物业管理系统源码\bin\Release\Data\DBCommunity.mdb
+F:\C#工作区\DX0149-小区物业管理系统源码\DX0149-小区物业管理系统源码\bin\Release\MyCommunity.exe.config
+F:\C#工作区\DX0149-小区物业管理系统源码\DX0149-小区物业管理系统源码\bin\Release\MyCommunity.exe
+F:\C#工作区\DX0149-小区物业管理系统源码\DX0149-小区物业管理系统源码\bin\Release\MyCommunity.pdb
+F:\C#工作区\DX0149-小区物业管理系统源码\DX0149-小区物业管理系统源码\bin\Release\Interop.IasHelperLib.dll
+F:\C#工作区\DX0149-小区物业管理系统源码\DX0149-小区物业管理系统源码\obj\Release\Interop.IasHelperLib.dll
+F:\C#工作区\DX0149-小区物业管理系统源码\DX0149-小区物业管理系统源码\obj\Release\MyCommunity.csproj.ResolveComReference.cache
+F:\C#工作区\DX0149-小区物业管理系统源码\DX0149-小区物业管理系统源码\obj\Release\MyCommunity.BuildingForm.resources
+F:\C#工作区\DX0149-小区物业管理系统源码\DX0149-小区物业管理系统源码\obj\Release\MyCommunity.ChangeUserPasswordForm.resources
+F:\C#工作区\DX0149-小区物业管理系统源码\DX0149-小区物业管理系统源码\obj\Release\MyCommunity.CommonPropertyForm.resources
+F:\C#工作区\DX0149-小区物业管理系统源码\DX0149-小区物业管理系统源码\obj\Release\MyCommunity.CommonRepairForm.resources
+F:\C#工作区\DX0149-小区物业管理系统源码\DX0149-小区物业管理系统源码\obj\Release\MyCommunity.CommunityForm.resources
+F:\C#工作区\DX0149-小区物业管理系统源码\DX0149-小区物业管理系统源码\obj\Release\MyCommunity.ComplainForm.resources
+F:\C#工作区\DX0149-小区物业管理系统源码\DX0149-小区物业管理系统源码\obj\Release\MyCommunity.EventForm.resources
+F:\C#工作区\DX0149-小区物业管理系统源码\DX0149-小区物业管理系统源码\obj\Release\MyCommunity.GasPaymentForm.resources
+F:\C#工作区\DX0149-小区物业管理系统源码\DX0149-小区物业管理系统源码\obj\Release\MyCommunity.GasQueryForm.resources
+F:\C#工作区\DX0149-小区物业管理系统源码\DX0149-小区物业管理系统源码\obj\Release\MyCommunity.GasRegisterForm.resources
+F:\C#工作区\DX0149-小区物业管理系统源码\DX0149-小区物业管理系统源码\obj\Release\MyCommunity.LoginForm.resources
+F:\C#工作区\DX0149-小区物业管理系统源码\DX0149-小区物业管理系统源码\obj\Release\MyCommunity.MainForm.resources
+F:\C#工作区\DX0149-小区物业管理系统源码\DX0149-小区物业管理系统源码\obj\Release\MyCommunity.ManagePaymentForm.resources
+F:\C#工作区\DX0149-小区物业管理系统源码\DX0149-小区物业管理系统源码\obj\Release\MyCommunity.ManageQueryForm.resources
+F:\C#工作区\DX0149-小区物业管理系统源码\DX0149-小区物业管理系统源码\obj\Release\MyCommunity.ManageRegisterForm.resources
+F:\C#工作区\DX0149-小区物业管理系统源码\DX0149-小区物业管理系统源码\obj\Release\MyCommunity.MoveForm.resources
+F:\C#工作区\DX0149-小区物业管理系统源码\DX0149-小区物业管理系统源码\obj\Release\MyCommunity.OperatorForm.resources
+F:\C#工作区\DX0149-小区物业管理系统源码\DX0149-小区物业管理系统源码\obj\Release\MyCommunity.OtherPaymentForm.resources
+F:\C#工作区\DX0149-小区物业管理系统源码\DX0149-小区物业管理系统源码\obj\Release\MyCommunity.OwnerForm.resources
+F:\C#工作区\DX0149-小区物业管理系统源码\DX0149-小区物业管理系统源码\obj\Release\MyCommunity.OwnerRepairForm.resources
+F:\C#工作区\DX0149-小区物业管理系统源码\DX0149-小区物业管理系统源码\obj\Release\MyCommunity.Properties.Resources.resources
+F:\C#工作区\DX0149-小区物业管理系统源码\DX0149-小区物业管理系统源码\obj\Release\MyCommunity.ReportChargeForm.resources
+F:\C#工作区\DX0149-小区物业管理系统源码\DX0149-小区物业管理系统源码\obj\Release\MyCommunity.ReportCommonRepairForm.resources
+F:\C#工作区\DX0149-小区物业管理系统源码\DX0149-小区物业管理系统源码\obj\Release\MyCommunity.ReportComplainForm.resources
+F:\C#工作区\DX0149-小区物业管理系统源码\DX0149-小区物业管理系统源码\obj\Release\MyCommunity.ReportOwnerForm.resources
+F:\C#工作区\DX0149-小区物业管理系统源码\DX0149-小区物业管理系统源码\obj\Release\MyCommunity.ReportOwnerRepairForm.resources
+F:\C#工作区\DX0149-小区物业管理系统源码\DX0149-小区物业管理系统源码\obj\Release\MyCommunity.StationForm.resources
+F:\C#工作区\DX0149-小区物业管理系统源码\DX0149-小区物业管理系统源码\obj\Release\MyCommunity.VersionForm.resources
+F:\C#工作区\DX0149-小区物业管理系统源码\DX0149-小区物业管理系统源码\obj\Release\MyCommunity.csproj.GenerateResource.cache
+F:\C#工作区\DX0149-小区物业管理系统源码\DX0149-小区物业管理系统源码\obj\Release\MyCommunity.csproj.CoreCompileInputs.cache
+F:\C#工作区\DX0149-小区物业管理系统源码\DX0149-小区物业管理系统源码\obj\Release\MyCommunity.csproj.CopyComplete
+F:\C#工作区\DX0149-小区物业管理系统源码\DX0149-小区物业管理系统源码\obj\Release\MyCommunity.exe
+F:\C#工作区\DX0149-小区物业管理系统源码\DX0149-小区物业管理系统源码\obj\Release\MyCommunity.pdb

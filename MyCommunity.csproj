@@ -1,0 +1,452 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E2CA80EA-C3EA-462E-8F04-CE8326617E49}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MyCommunity</RootNamespace>
+    <AssemblyName>MyCommunity</AssemblyName>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <IsWebBootstrapper>true</IsWebBootstrapper>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <PublishUrl>http://localhost/MyCommunity/</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Web</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="IrisSkin2, Version=2006.3.22.45, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\IrisSkin2.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BuildingForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BuildingForm.Designer.cs">
+      <DependentUpon>BuildingForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChangeUserPasswordForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChangeUserPasswordForm.Designer.cs">
+      <DependentUpon>ChangeUserPasswordForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CommonPropertyForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CommonPropertyForm.Designer.cs">
+      <DependentUpon>CommonPropertyForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CommonRepairForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CommonRepairForm.Designer.cs">
+      <DependentUpon>CommonRepairForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CommunityForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CommunityForm.Designer.cs">
+      <DependentUpon>CommunityForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ComplainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ComplainForm.Designer.cs">
+      <DependentUpon>ComplainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Data\DBCommunityDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DBCommunityDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="EventForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EventForm.Designer.cs">
+      <DependentUpon>EventForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GasPaymentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GasPaymentForm.Designer.cs">
+      <DependentUpon>GasPaymentForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GasQueryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GasQueryForm.Designer.cs">
+      <DependentUpon>GasQueryForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GasRegisterForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GasRegisterForm.Designer.cs">
+      <DependentUpon>GasRegisterForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginForm.Designer.cs">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManagePaymentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManagePaymentForm.Designer.cs">
+      <DependentUpon>ManagePaymentForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManageQueryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManageQueryForm.Designer.cs">
+      <DependentUpon>ManageQueryForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManageRegisterForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManageRegisterForm.Designer.cs">
+      <DependentUpon>ManageRegisterForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MoveForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MoveForm.Designer.cs">
+      <DependentUpon>MoveForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OperatorForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OperatorForm.Designer.cs">
+      <DependentUpon>OperatorForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OtherPaymentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OtherPaymentForm.Designer.cs">
+      <DependentUpon>OtherPaymentForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OwnerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OwnerForm.Designer.cs">
+      <DependentUpon>OwnerForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OwnerRepairForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OwnerRepairForm.Designer.cs">
+      <DependentUpon>OwnerRepairForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="BuildingForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>BuildingForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChangeUserPasswordForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ChangeUserPasswordForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CommonPropertyForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>CommonPropertyForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CommonRepairForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>CommonRepairForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CommunityForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>CommunityForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ComplainForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ComplainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EventForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>EventForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GasPaymentForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>GasPaymentForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GasQueryForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>GasQueryForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GasRegisterForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>GasRegisterForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManagePaymentForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ManagePaymentForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManageQueryForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ManageQueryForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManageRegisterForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ManageRegisterForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MoveForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>MoveForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OperatorForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>OperatorForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OtherPaymentForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>OtherPaymentForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OwnerForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>OwnerForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OwnerRepairForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>OwnerRepairForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportChargeForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ReportChargeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportCommonRepairForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ReportCommonRepairForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportComplainForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ReportComplainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportOwnerForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ReportOwnerForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportOwnerRepairForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ReportOwnerRepairForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StationForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>StationForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VersionForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>VersionForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="Data\DBCommunityDataSet.xsc">
+      <DependentUpon>DBCommunityDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Data\DBCommunityDataSet.xsd">
+      <SubType>
+      </SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DBCommunityDataSet.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Data\DBCommunityDataSet.xss">
+      <DependentUpon>DBCommunityDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="ReportChargeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportChargeForm.Designer.cs">
+      <DependentUpon>ReportChargeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportCommonRepairForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportCommonRepairForm.Designer.cs">
+      <DependentUpon>ReportCommonRepairForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportComplainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportComplainForm.Designer.cs">
+      <DependentUpon>ReportComplainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportOwnerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportOwnerForm.Designer.cs">
+      <DependentUpon>ReportOwnerForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportOwnerRepairForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportOwnerRepairForm.Designer.cs">
+      <DependentUpon>ReportOwnerRepairForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StationForm.Designer.cs">
+      <DependentUpon>StationForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VersionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VersionForm.Designer.cs">
+      <DependentUpon>VersionForm.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Data\DBCommunity.mdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>5</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="IasHelperLib">
+      <Guid>{6BC096BB-0CE6-11D1-BAAE-00C04FC2E20D}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
